@@ -303,26 +303,26 @@ This is a WhatsApp bot built using the Baileys library for group management, inc
 
 ### 📝 Legal
 
-- This project is not affiliated with, authorized, maintained, sponsored or endorsed by WhatsApp or any of its affiliates or subsidiaries.
-- This is an independent and unofficial software. Use at your own risk.
-- Do not spam people with this bot.
-- Do not use this bot to send bulk messages or for illegal purposes.
-- The developers assume no liability and are not responsible for any misuse or damage caused by this program.
+ This project is not affiliated with, authorized, maintained, sponsored or endorsed by WhatsApp or any of its affiliates or subsidiaries.
+ This is an independent and unofficial software. Use at your own risk.
+ Do not spam people with this bot.
+ Do not use this bot to send bulk messages or for illegal purposes.
+ The developers assume no liability and are not responsible for any misuse or damage caused by this program.
 
 ### License
 This project is licensed under the MIT License. However, you must:
-- Use this software in compliance with all applicable laws and regulations
-- Include original license and copyright notices
-- Credit original authors
-- Not use for spam or malicious purposes
+ Use this software in compliance with all applicable laws and regulations
+ Include original license and copyright notices
+ Credit original authors
+ Not use for spam or malicious purposes
 
 ### 📜 Copyright Notice
 
 Copyright (c) 2025 EliTechWiz. All rights reserved.
 
 This project contains code from various open source projects:
-- Baileys (MIT License)
-- Other libraries as listed in package.json
+ Baileys (MIT License)
+ Other libraries as listed in package.json
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/65389981/170659132-ed8ff3b7-54b4-4647-b01a-3525c003c7fe.gif" height="70">
