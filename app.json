@@ -1,0 +1,50 @@
+{
+    "name": "EliTechWiz-V3",
+    "description": "Advanced WhatsApp Bot with Multiple Features",
+    "keywords": [
+        "bot",
+        "whatsapp",
+        "whatsapp-bot",
+        "elitechwizbot",
+        "multi-device"
+    ],
+    "repository": "https://github.com/Eliahhango/EliTechWiz-V3",
+    "stack": "container",
+    "env": {
+        "SESSION_ID": {
+            "description": "Session ID obtained after scanning QR code",
+            "required": false
+        },
+        "OWNER_NUMBER": {
+            "description": "Your WhatsApp number (e.g., 911234567890)",
+            "required": false
+        },
+        "PREFIX": {
+            "description": "Prefix for bot commands",
+            "value": ".",
+            "required": false
+        }
+    },
+    "formation": {
+        "worker": {
+            "quantity": 1,
+            "size": "basic"
+        }
+    },
+    "buildpacks": [
+        {
+            "url": "heroku/nodejs"
+        },
+        {
+            "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest"
+        },
+        {
+            "url": "https://github.com/DuckyTeam/heroku-buildpack-imagemagick"
+        }
+    ],
+    "addons": [
+        {
+            "plan": "heroku-postgresql"
+        }
+    ]
+}
