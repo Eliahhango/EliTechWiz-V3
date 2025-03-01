@@ -234,14 +234,7 @@ This is a WhatsApp bot built using the Baileys library for group management, inc
           <img src="https://img.shields.io/badge/EliTechWiz-Developer-brightgreen?style=for-the-badge" alt="EliTechWiz"/>
         </a>
       </td>
-      <td align="center">
-        <a href="https://github.com/adiwajshing/Baileys">
-          <img src="https://img.shields.io/badge/Baileys-Library-blue?style=for-the-badge" alt="Baileys"/>
-        </a>
-      </td>
-    </tr>
-    <tr>
-
+      
 ## ⚠️ Legal & Warning
 
 <div align="center">
