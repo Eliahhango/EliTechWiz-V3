@@ -184,17 +184,7 @@ This is a WhatsApp bot built using the Baileys library for group management, inc
       </td>
     </tr>
     <tr>
-      <td align="center" colspan="2">
-        <a href="https://huggingface.co/login?next=%2Fspaces%2Fwhatsapp-bot%2Felitechwizbot%3Fduplicate%3Dtrue">
-          <img src="https://img.shields.io/badge/%F0%9F%A4%97%20Deploy%20to-Hugging%20Face-blue?style=for-the-badge" alt="Deploy to Hugging Face" height="40">
-        </a>
-      </td>
-    </tr>
-  </table>
-</div>
-
-<hr style="border: 0.5px solid #ddd; margin: 30px 0;">
-
+      
 ## 📱 Join Our Community
 
 <div align="center">
