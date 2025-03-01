@@ -43,7 +43,6 @@ This is a WhatsApp bot built using the Baileys library for group management, inc
   <summary align="center"><h2>📑 Table of Contents</h2></summary>
 <br>
 
-- [🚀 Features](#-features)
 - [🛠️ Installation Methods](#️-installation-methods)
   - [Step 1: Fork the Repository](#step-1-fork-the-repository)
   - [Step 2: Get Pair Code](#step-2-get-pair-code)
@@ -60,55 +59,6 @@ This is a WhatsApp bot built using the Baileys library for group management, inc
 </details>
 
 <hr style="border: 0.5px solid #ddd; margin: 30px 0;">
-
-## 🚀 Features
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <img src="https://img.shields.io/badge/Tag%20All-Members-brightgreen?style=for-the-badge" alt="Tag All Members"/>
-        <br>Tag all group members with <code>.tagall</code>
-      </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/Admin-Controls-blue?style=for-the-badge" alt="Admin Controls"/>
-        <br>Admin-only command restrictions
-      </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/Interactive-Games-orange?style=for-the-badge" alt="Interactive Games"/>
-        <br>Games like Tic-Tac-Toe
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <img src="https://img.shields.io/badge/Text%20To-Speech-purple?style=for-the-badge" alt="Text to Speech"/>
-        <br>Convert text to speech with <code>.tts</code>
-      </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/Sticker-Creation-pink?style=for-the-badge" alt="Sticker Creation"/>
-        <br>Create stickers with <code>.sticker</code>
-      </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/Anti--Link-Protection-red?style=for-the-badge" alt="Anti-Link"/>
-        <br>Group safety with anti-link
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <img src="https://img.shields.io/badge/Warning-System-yellow?style=for-the-badge" alt="Warning System"/>
-        <br>Warn and manage group members
-      </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/Multi-Device-green?style=for-the-badge" alt="Multi-Device"/>
-        <br>Multi-device capability
-      </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/Fully-Customizable-teal?style=for-the-badge" alt="Customizable"/>
-        <br>Easily customizable commands
-      </td>
-    </tr>
-  </table>
-</div>
 
 <hr style="border: 0.5px solid #ddd; margin: 30px 0;">
 
