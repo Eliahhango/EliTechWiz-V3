@@ -301,13 +301,13 @@ This is a WhatsApp bot built using the Baileys library for group management, inc
     </tr>
     <tr>
       <td align="center">
-        <a href="https://github.com/TechGod143">
-          <img src="https://img.shields.io/badge/TechGod143-Pair_Code-orange?style=for-the-badge" alt="TechGod143"/>
+        <a href="https://github.com/Eliahhango">
+          <img src="https://img.shields.io/badge/TechGod143-Pair_Code-orange?style=for-the-badge" alt="Developer"/>
         </a>
       </td>
       <td align="center">
-        <a href="https://github.com/Dgxeon">
-          <img src="https://img.shields.io/badge/Dgxeon-Pair_Code-purple?style=for-the-badge" alt="Dgxeon"/>
+        <a href="https://github.com/Eliahhango">
+          <img src="https://img.shields.io/badge/Dgxeon-Pair_Code-purple?style=for-the-badge" alt="Eliahhango"/>
         </a>
       </td>
     </tr>
