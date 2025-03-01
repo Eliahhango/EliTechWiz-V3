@@ -205,6 +205,9 @@ This is a WhatsApp bot built using the Baileys library for group management, inc
     <img src="https://img.shields.io/badge/Join_WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Join WhatsApp"/>
   </a>
 </div>
+  <a href="https://chat.whatsapp.com/CK55DhCbb2q6UihlzPBTkP">
+    <img src="https://img.shields.io/badge/Join_WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Join Our WhatsApp Group"/>
+  </a>
 
 <hr style="border: 0.5px solid #ddd; margin: 30px 0;">
 
@@ -246,14 +249,14 @@ This is a WhatsApp bot built using the Baileys library for group management, inc
 
 <hr style="border: 0.5px solid #ddd; margin: 30px 0;">
 
-## 📖 About EliTechWiz
+## 📖 About EliTechWiz-V3
 
 <div align="center">
   <img src="https://github.com/Eliahhango/EliTechWiz-V3/blob/main/assets/bot_image.jpg" alt="EliTechWiz-V3" height="200" style="border-radius:50%; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
 </div>
 
 <p align="center">
-  The EliTechWiz WhatsApp Bot assists group admins by providing them with tools to efficiently manage large WhatsApp groups. The bot uses the Baileys library to interact with the WhatsApp Web API and supports multi-device features.
+  The EliTechWiz-V3 WhatsApp Bot assists group admins by providing them with tools to efficiently manage large WhatsApp groups. The bot uses the Baileys library to interact with the WhatsApp Web API and supports multi-device features.
 </p>
 
 <p align="center">
@@ -302,12 +305,12 @@ This is a WhatsApp bot built using the Baileys library for group management, inc
     <tr>
       <td align="center">
         <a href="https://github.com/Eliahhango">
-          <img src="https://img.shields.io/badge/TechGod143-Pair_Code-orange?style=for-the-badge" alt="Developer"/>
+          <img src="https://img.shields.io/badge/EliTechWiz-Pair_Code-orange?style=for-the-badge" alt="Developer"/>
         </a>
       </td>
       <td align="center">
         <a href="https://github.com/Eliahhango">
-          <img src="https://img.shields.io/badge/Dgxeon-Pair_Code-purple?style=for-the-badge" alt="Eliahhango"/>
+          <img src="https://img.shields.io/badge/EliTechWiz-Pair_Code-purple?style=for-the-badge" alt="Eliahhango"/>
         </a>
       </td>
     </tr>
