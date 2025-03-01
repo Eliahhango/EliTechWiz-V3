@@ -198,7 +198,7 @@ This is a WhatsApp bot built using the Baileys library for group management, inc
 ## 📱 Join Our Community
 
 <div align="center">
-  <a href="https://t.me/+3QhFUZHx-nhhZmY1">
+  <a href="https://t.me/techarmyyy">
     <img src="https://img.shields.io/badge/Join_Telegram-0078E7?style=for-the-badge&logo=telegram&logoColor=white" alt="Join Telegram"/>
   </a>
   <a href="https://whatsapp.com/channel/0029VaeEYF0BvvsZpaTPfL2s">
