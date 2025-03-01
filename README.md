@@ -49,7 +49,6 @@ This is a WhatsApp bot built using the Baileys library for group management, inc
   - [Step 2: Get Pair Code](#step-2-get-pair-code)
   - [Step 3: Deploy the Bot](#step-3-deploy-the-bot)
 - [🌐 Free & Paid Hosting Options](#-free--paid-hosting-options)
-- [🏢 Additional Hosting Panels](#-additional-hosting-panels)
 - [📱 Join Our Community](#-join-our-community)
 - [⚙️ Setup & Installation](#️-setup--installation)
 - [📖 About EliTechWiz](#-about-elitechwiz)
