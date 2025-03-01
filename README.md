@@ -55,7 +55,7 @@ This is a WhatsApp bot built using the Baileys library for group management, inc
 - [📖 About EliTechWiz](#-about-elitechwiz)
 - [📄 License](#-license)
 - [🙌 Contributions](#-contributions)
-- [⭐ Deployment Methods](#-Deployment Methods)
+- [⭐ Deployment Methods](#-Deployment-Methods)
 - [⚠️ Legal & Warning](#️-legal--warning)
 
 </details>
