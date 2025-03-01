@@ -178,7 +178,7 @@ This is a WhatsApp bot built using the Baileys library for group management, inc
         </a>
       </td>
       <td align="center">
-        <a href="https://app.koyeb.com/deploy?type=git&repository=github.com/Eliahhango/EliTechWiz-V3&branch=main&name=elitechwizbot">
+        <a href="https://app.koyeb.com/deploy?type=git&repository=github.com/Eliahhango/EliTechWiz-V3&branch=main&name=EliTechWiz-V3">
           <img src="https://www.koyeb.com/static/images/deploy/button.svg" alt="Deploy to Koyeb" height="40">
         </a>
       </td>
@@ -202,9 +202,8 @@ This is a WhatsApp bot built using the Baileys library for group management, inc
     <img src="https://img.shields.io/badge/Join_Telegram-0078E7?style=for-the-badge&logo=telegram&logoColor=white" alt="Join Telegram"/>
   </a>
   <a href="https://whatsapp.com/channel/0029VaeEYF0BvvsZpaTPfL2s">
-    <img src="https://img.shields.io/badge/Join_WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Join WhatsApp"/>
+    <img src="https://img.shields.io/badge/Join_WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Join Our WhatsApp Channel"/>
   </a>
-</div>
   <a href="https://chat.whatsapp.com/CK55DhCbb2q6UihlzPBTkP">
     <img src="https://img.shields.io/badge/Join_WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Join Our WhatsApp Group"/>
   </a>
