@@ -272,7 +272,3 @@ Copyright (c) 2025 EliTechWiz. All rights reserved.
 This project contains code from various open source projects:
  Baileys (MIT License)
  Other libraries as listed in package.json
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/65389981/170659132-ed8ff3b7-54b4-4647-b01a-3525c003c7fe.gif" height="70">
-</div>
