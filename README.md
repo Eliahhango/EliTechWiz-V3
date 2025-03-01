@@ -297,7 +297,6 @@ This is a WhatsApp bot built using the Baileys library for group management, inc
 
 <div align="center">
   <div style="background-color: #ffe6e6; border-left: 4px solid #ff0000; padding: 15px; margin: 10px 0; border-radius: 5px;">
-    <h3>⚠️ Important Warning</h3>
     <p><b>Note:</b> This bot is created for educational purposes only. This is NOT an official WhatsApp bot. Using this bot may lead to your WhatsApp account being banned. Use it at your own risk. The developers will not be responsible for any consequences or account bans that may occur while using this bot.</p>
   </div>
 </div>
