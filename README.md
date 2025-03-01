@@ -195,54 +195,6 @@ This is a WhatsApp bot built using the Baileys library for group management, inc
 
 <hr style="border: 0.5px solid #ddd; margin: 30px 0;">
 
-## 🏢 Additional Hosting Panels
-
-<div align="center">
-  <div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 10px; width: 100%; max-width: 800px;">
-    <a href="https://account.solarhosting.cc/" target="_blank">
-      <img src="https://img.shields.io/badge/Solar_Hosting-FF6B6B?style=for-the-badge&logo=server&logoColor=white" alt="Solar Hosting" width="100%"/>
-    </a>
-    <a href="https://my.blare.host/" target="_blank">
-      <img src="https://img.shields.io/badge/Blare_Host-4A90E2?style=for-the-badge&logo=server&logoColor=white" alt="Blare Host" width="100%"/>
-    </a>
-    <a href="https://dash.witchly.host/" target="_blank">
-      <img src="https://img.shields.io/badge/Witchly_Host-9B59B6?style=for-the-badge&logo=server&logoColor=white" alt="Witchly Host" width="100%"/>
-    </a>
-    <a href="https://optiklink.com/" target="_blank">
-      <img src="https://img.shields.io/badge/Optik_Link-2ECC71?style=for-the-badge&logo=server&logoColor=white" alt="Optik Link" width="100%"/>
-    </a>
-    <a href="https://panel.sillydev.co.uk" target="_blank">
-      <img src="https://img.shields.io/badge/SillyDev_Panel-E67E22?style=for-the-badge&logo=server&logoColor=white" alt="SillyDev Panel" width="100%"/>
-    </a>
-    <a href="https://cloves.mypi.co/" target="_blank">
-      <img src="https://img.shields.io/badge/Cloves_MyPi-3498DB?style=for-the-badge&logo=server&logoColor=white" alt="Cloves MyPi" width="100%"/>
-    </a>
-    <a href="https://client.botwa.net/login" target="_blank">
-      <img src="https://img.shields.io/badge/BotWA_Panel-27AE60?style=for-the-badge&logo=server&logoColor=white" alt="BotWA Panel" width="100%"/>
-    </a>
-    <a href="https://netherite.io/" target="_blank">
-      <img src="https://img.shields.io/badge/Netherite_Host-8E44AD?style=for-the-badge&logo=server&logoColor=white" alt="Netherite Host" width="100%"/>
-    </a>
-    <a href="https://bot-hosting.net/" target="_blank">
-      <img src="https://img.shields.io/badge/Bot_Hosting-E74C3C?style=for-the-badge&logo=server&logoColor=white" alt="Bot Hosting" width="100%"/>
-    </a>
-    <a href="https://panel.hardy.host/auth/login" target="_blank">
-      <img src="https://img.shields.io/badge/Hardy_Host-F1C40F?style=for-the-badge&logo=server&logoColor=black" alt="Hardy Host" width="100%"/>
-    </a>
-    <a href="https://dashboard.katabump.com/auth/login" target="_blank">
-      <img src="https://img.shields.io/badge/Katabump-D6B7D6?style=for-the-badge&logo=server&logoColor=black" alt="Katabump" width="100%"/>
-    </a>
-    <a href="https://daki.cc" target="_blank">
-      <img src="https://img.shields.io/badge/Daki_CC-34495E?style=for-the-badge&logo=server&logoColor=white" alt="Daki CC" width="100%"/>
-    </a>
-    <a href="https://pella.app" target="_blank">
-      <img src="https://img.shields.io/badge/Pella_App-16A085?style=for-the-badge&logo=server&logoColor=white" alt="Pella App" width="100%"/>
-    </a>
-  </div>
-</div>
-
-<hr style="border: 0.5px solid #ddd; margin: 30px 0;">
-
 ## 📱 Join Our Community
 
 <div align="center">
