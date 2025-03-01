@@ -292,21 +292,6 @@ This is a WhatsApp bot built using the Baileys library for group management, inc
       </td>
     </tr>
     <tr>
-      <td align="center">
-        <a href="https://github.com/Eliahhango">
-          <img src="https://img.shields.io/badge/EliTechWiz-Pair_Code-orange?style=for-the-badge" alt="Developer"/>
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://github.com/Eliahhango">
-          <img src="https://img.shields.io/badge/EliTechWiz-Pair_Code-purple?style=for-the-badge" alt="Eliahhango"/>
-        </a>
-      </td>
-    </tr>
-  </table>
-</div>
-
-<hr style="border: 0.5px solid #ddd; margin: 30px 0;">
 
 ## ⚠️ Legal & Warning
 
