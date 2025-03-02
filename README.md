@@ -94,7 +94,7 @@ This is a WhatsApp bot built using the Baileys library for group management, inc
 
 <div align="center">
   <p>For further customization and setup guidance, visit:</p>
-  <a href="https://youtu.be/dDyiEHF8rIQ">
+  <a href="YouTube Link">
     <img src="https://img.shields.io/badge/DEPLOY-TUTORIAL-dc3545?style=for-the-badge&logo=youtube" alt="YouTube Link"/>
   </a>
   <a href="https://bot-hosting.net/?aff=1255659114445672479">
